@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/ico-battery.png</file>
+        <file>assets/ico-connected.png</file>
+        <file>assets/ico-dashboard.png</file>
+        <file>assets/ico-power.png</file>
+        <file>assets/ico-wifi.png</file>
+        <file>assets/te-offline.png</file>
+        <file>assets/ico-refresh.png</file>
+        <file>assets/ico-send.png</file>
+    </qresource>
+</RCC>
